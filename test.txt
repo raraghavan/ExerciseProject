@@ -1,0 +1,14 @@
+ Volume in drive C is OS
+ Volume Serial Number is 1276-B49F
+
+ Directory of C:\Work\HelloWorld
+
+02/26/2018  01:20 AM    <DIR>          .
+02/26/2018  01:20 AM    <DIR>          ..
+02/23/2018  05:14 AM               678 Hello.class
+02/23/2018  05:13 AM               159 Hello.java
+02/23/2018  09:11 AM               489 Rajesh.txt
+02/23/2018  08:55 AM               438 Readme.txt
+02/26/2018  01:20 AM                 0 test.txt
+               5 File(s)          1,764 bytes
+               2 Dir(s)  16,897,216,512 bytes free
